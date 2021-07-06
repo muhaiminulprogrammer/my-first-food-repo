@@ -1,0 +1,27 @@
+/*==body starts==*/
+body{
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  word-spacing: 1px;
+}
+/*==body ends==*/
+/*==Navigattion-menu starts==*/
+#navigation-menu{
+  display: flex;
+  background-image: linear-gradient(blue,skyblue);
+  padding: 14px;
+}
+#logo-image{
+  height: 50px;
+  width: 70px;
+}
+#navigation-menu-items a{
+  text-decoration: none;
+  color: white;
+  margin: 0 5px;
+  }
+  #navigation-menu-items{
+    margin-left: auto;
+    vertical-align: middle;
+  }
+  /*==Navigattion-menu ends==*/
