@@ -153,3 +153,8 @@ form .linkable-button{
    color: red;
 }
 /*==50% Discount section ends*/
+/*==Comments section starts==*/
+.comment-display{
+  display: flex;
+}
+/*==Comments section ends==*/
