@@ -158,3 +158,21 @@ form .linkable-button{
   display: flex;
 }
 /*==Comments section ends==*/
+/*==Footer starts==*/
+footer{
+  width:100%;
+  background-color: black;
+  text-align: center;
+  padding: 20px 0;
+}
+#nababi{
+  color: orangered;
+}
+#restaurant{
+  color: purple;
+}
+footer p{
+  font-size: 12px;
+  color: white;
+}
+/*==Footer ends==*/
