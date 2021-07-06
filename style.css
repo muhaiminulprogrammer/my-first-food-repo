@@ -78,3 +78,32 @@ p{
   padding-right: 40px;
 }
 /*==About Ous section ends==*/
+/*==Food Menu section starts==*/
+.food-menu-comments{
+  margin-bottom: 100px;
+}
+.food-menu-comments h3{
+  text-align: center;
+}
+.food-menu-items{
+  display: flex;
+  margin-bottom: 100px;
+}
+.one-third-width{
+  width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  box-shadow: 8px 8px 3px 0px grey;
+  border-radius: 10px;
+}
+h5{
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+.one-third-width p{
+  padding-right:45px;
+}
+/*==Food Menu section ends==*/
