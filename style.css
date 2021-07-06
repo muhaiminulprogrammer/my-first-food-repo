@@ -107,3 +107,49 @@ h5{
   padding-right:45px;
 }
 /*==Food Menu section ends==*/
+/*==50% Discount section starts*/
+.Discount-section{
+  margin-bottom: 100px;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.Discount-section h3{
+  text-align: center;
+  color: cornflowerblue;
+}
+.Discount-section p{
+  margin: 0 30px;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+form{
+  text-align: center;
+}
+input{
+  margin: 20px 0;
+  padding: 10px 10px;
+}
+form .linkable-button{
+  margin-bottom: 30px;
+}
+.form-button{
+   background-color: darkorange;
+   padding: 8px 14px;
+   color: black;
+   border-radius: 10px;
+   margin: 0 5px;
+}
+.form-button:hover{
+  background-color: black;
+  color: darkorange;
+}
+#Attraction-para{
+  text-align: center;
+  margin-top: 10px;
+}
+#Attraction-para span{
+   color: red;
+}
+/*==50% Discount section ends*/
